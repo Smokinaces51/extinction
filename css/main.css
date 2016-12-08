@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'source_sans_proregular';
+    src: url('../fonts/sourcesanspro-regular-webfont.woff2') format('woff2'),
+         url('../fonts/sourcesanspro-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'advent_proregular';
+    src: url('../fonts/adventpro-regular-webfont.woff2') format('woff2'),
+         url('../fonts/adventpro-regular-webfont.woff') format('woff');
+    font-weight: large;
+    font-style: large;
+
+}
+
+body {
+    background-color: #124cc3;
+    padding: 0;
+    margin: 0;
+}
+
+#wrapper {
+    width: 60%;
+    padding: 5%;
+    margin: 0 auto;
+    background-color: #CA5310;
+}
